@@ -23,7 +23,7 @@ let placarJogador1 = 0;
 let placarJogador2 = 0;
 
 function setup() {
-  createCanvas(1280, 720);
+  createCanvas(1920, 1080);
   iniciarPosicoes();
 }
 
